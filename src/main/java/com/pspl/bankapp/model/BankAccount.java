@@ -26,7 +26,7 @@ public abstract class BankAccount implements BankSpecification {
 	public String getAccHolderName() {
 		return accHolderName;
 	}
-
+	//helooo radha
 	public void setAccHolderName(String accHolderName) {
 		this.accHolderName = accHolderName;
 	}
